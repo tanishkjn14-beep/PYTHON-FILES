@@ -1,0 +1,8 @@
+print("hello my name is tanishk")
+name = input("what is your name ")
+print("nice to meet you", name)
+hobbies = input("what are your hobbies ")
+print("these", hobbies, "sounds fun")
+chess = input("do you play chess ")
+print("ok\nI likes to play it.")
+print("ok bye", name)
